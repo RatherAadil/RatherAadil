@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RatherAadil
-- 👀 I’m interested in Front End Development
+- 👀 I’m Front End Developer
 - 🌱 I’m currently learning JavaScript
 
 - 📫 If you want to Connect with me Just email at ratheraadil61@gmail.com
