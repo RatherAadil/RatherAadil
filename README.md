@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hi 👋, I'm Rather Aadil</h1>
 
-<h3 align="center">A passionate frontend developer , BCA Student at GDC BeerWah , Kashmiri</h3>
+<h3 align="center">A passionate FrontEnd Developer , BCA Student at GDC BeerWah , and a Proud Kashmiri </h3>
 
 <img align="right" width="400" alt="coding" src="https://i.pinimg.com/originals/e1/f3/41/e1f3413bf5036045713341394f617225.gif">
 
