@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **ratheraadil61@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1EX__YK3yDgt1rbH62q9nK6eVg1gjPxZM/view?usp=sharing](https://drive.google.com/file/d/1EX__YK3yDgt1rbH62q9nK6eVg1gjPxZM/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1U6QDKUq-08-ehKJ9Iq7SnHGFJTVv8qq6/view?usp=sharing](https://drive.google.com/file/d/1U6QDKUq-08-ehKJ9Iq7SnHGFJTVv8qq6/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
