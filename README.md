@@ -1,36 +1,138 @@
-[![MasterHead](https://visme.co/blog/wp-content/uploads/2020/03/animation-software-header-wide.gif) ](https://www.ratheraadil.github.io) 
-
-<h1 align="center">Hi 👋, I'm Rather Aadil</h1>
-<h3 align="center">Passionate Developer | Cs Student | Kashmiri</h3>
-
-<img align="right" width="400" alt="coding" src="https://i.pinimg.com/originals/e1/f3/41/e1f3413bf5036045713341394f617225.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ratheraadil&label=Profile%20views&color=0e75b6&style=flat" alt="ratheraadil" /> </p>
-
-<p align="left"> <a href="https://twitter.com/imratheraadil" target="blank"><img src="https://img.shields.io/twitter/follow/imratheraadil?logo=twitter&style=for-the-badge" alt="imratheraadil" /></a> </p>
-
-- 🌱 I’m currently learning **React Js**
-
-- 📝 I regularly write articles on [www.notedup.in](www.notedup.in)
-
-- 💬 Ask me about **js,python,c**
-
-- 📫 How to reach me **ratheraadil61@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1U6QDKUq-08-ehKJ9Iq7SnHGFJTVv8qq6/view?usp=sharing](https://drive.google.com/file/d/1U6QDKUq-08-ehKJ9Iq7SnHGFJTVv8qq6/view?usp=sharing)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/imratheraadil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="imratheraadil" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/imratheraadil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="imratheraadil" height="30" width="40" /></a>
-<a href="https://fb.com/imratheraadil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="imratheraadil" height="30" width="40" /></a>
-<a href="https://instagram.com/imratheraadil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="imratheraadil" height="30" width="40" /></a>
+<p align="center">
+  <strong>Full Stack Developer | MCA Student | Proud kashmiri</strong>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+<p align="center">
+  Building scalable, production-ready applications with clean architecture and modern technologies
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ratheraadil&show_icons=true&locale=en&layout=compact" alt="ratheraadil" /></p>
+## 🚀 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ratheraadil&show_icons=true&locale=en" alt="ratheraadil" /></p>
+I'm a passionate full stack developer focused on building efficient, scalable systems that solve real-world problems. I care deeply about clean code, performance, and designing systems that are maintainable and production-ready.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ratheraadil&" alt="ratheraadil" /></p>
+```javascript
+const aadil = {
+  location: 'Srinagar, India',
+  education: 'Masters in computer applications',
+  currentFocus: [
+    'Backend Engineering',
+    'Frontend Engineering',
+    'Scalable Architectures',
+  ],
+  interests: ['Performance Optimization', 'Authentication & Security'],
+  philosophy:
+    'Build real projects, break things, fix them, and learn deeply from the process.',
+  openTo: ['Collaborations', 'Internships', 'Open Source'],
+};
+```
+
+## 🎯 What I'm Working On
+
+### 🔐 Cloud Storage Platform
+
+- Store files, create folders & share files with anyone.
+- Secure authentication & authorization (RBAC)
+- Scalable middleware architecture
+- Clean separation of roles and permissions
+- Session management and security enhancements
+
+### 🧠 Currently Exploring
+
+- Advanced backend patterns (MVC, services)
+- API performance optimization
+- Authentication strategies (JWT, sessions, device tracking)
+
+## 💻 Tech Stack
+
+<div align="center">
+
+### Frontend
+
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=react,javascript,tailwindcss,html,css" />
+</p>
+
+### Backend
+
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,redis,postman" />
+</p>
+
+### Tools
+
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
+</p>
+
+### Cloud & Integration
+
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=aws,vite,npm" />
+</p>
+
+### Other Languages
+
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=c,cpp,java,python" />
+</p>
+
+</div>
+
+### ⚙️ Core Technologies
+
+- **Frontend:** React, JavaScript, Tailwind CSS
+- **Backend:** Node.js, Express.js, REST APIs
+- **Database:** MongoDB
+- **Auth & Security:** Sessions, Role-Based Access Control
+- **Tools:** Git, Postman, VS Code
+- **Concepts:** System Design, Clean Architecture, Middleware Design
+
+#### Projects Coming Soon... 🚧
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ratheraadil&theme=dark&hide_border=false&include_all_commits=true&show_icons=true" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ratheraadil&theme=dark&hide_border=false" height="170" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ratheraadil&theme=dark&hide_border=false&layout=compact&langs_count=8" height="170" />
+</div>
+
+## 🤝 Let's Connect
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="200">
+        <a href="mailto:ratheraadil61@gmail.com">
+          <img src="https://dzdw2zccyu2wu.cloudfront.net/overview/gmail.png" width="50" /><br/>
+          <sub><b>Email Me</b></sub>
+        </a>
+      </td>
+      <td align="center" width="200">
+        <a href="https://www.linkedin.com/in/imratheraadil/">
+          <img src="https://dzdw2zccyu2wu.cloudfront.net/overview/linkedin.png" width="50" /><br/>
+          <sub><b>Connect on LinkedIn</b></sub>
+        </a>
+      </td>
+      <td align="center" width="200">
+        <a href="https://github.com/RatherAadil">
+          <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="50" /><br/>
+          <sub><b>View GitHub</b></sub>
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+<div align="center">
+
+_"The best way to learn is to build systems that actually break — and then fix them."_
+
+> **Always building. Always improving.**
+
+</div>
