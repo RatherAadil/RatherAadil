@@ -11,7 +11,7 @@
 I'm a passionate full stack developer focused on building efficient, scalable systems that solve real-world problems. I care deeply about clean code, performance, and designing systems that are maintainable and production-ready.
 
 ```javascript
-const aadil = {
+const ratherAadil = {
   location: 'Srinagar, India',
   education: 'Masters in computer applications',
   currentFocus: [
