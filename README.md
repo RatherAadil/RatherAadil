@@ -89,16 +89,6 @@ const ratherAadil = {
 
 #### Projects Coming Soon... 🚧
 
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ratheraadil&theme=dark&hide_border=false&include_all_commits=true&show_icons=true" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ratheraadil&theme=dark&hide_border=false" height="170" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ratheraadil&theme=dark&hide_border=false&layout=compact&langs_count=8" height="170" />
-</div>
 
 ## 🤝 Let's Connect
 
