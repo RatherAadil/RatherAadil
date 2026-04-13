@@ -49,7 +49,7 @@ const ratherAadil = {
 ### Frontend
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=react,javascript,tailwindcss,html,css" />
+    <img src="https://skillicons.dev/icons?i=react,javascript,typescript,tailwindcss,html,css" />
 </p>
 
 ### Backend
