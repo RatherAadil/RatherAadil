@@ -80,11 +80,11 @@ const ratherAadil = {
 
 ### ⚙️ Core Technologies
 
-- **Frontend:** React, JavaScript, Tailwind CSS
+- **Frontend:** React, JavaScript, Tailwind CSS, Typescript
 - **Backend:** Node.js, Express.js, REST APIs
-- **Database:** MongoDB
+- **Database:** MongoDB, Redis, Mongoose
 - **Auth & Security:** Sessions, Role-Based Access Control
-- **Tools:** Git, Postman, VS Code
+- **Tools:** Git, Githuh, Postman, VS Code
 - **Concepts:** System Design, Clean Architecture, Middleware Design
 
 #### Projects Coming Soon... 🚧
